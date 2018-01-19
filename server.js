@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const path = require('path');
-var port=process.env.PORT || 8000;
+var port=process.env.PORT || 3000;
 
 var appDir = path.dirname(require.main.filename);
 
@@ -9,7 +9,7 @@ var appDir = path.dirname(require.main.filename);
 // in the dist directory
 /*app.use(express.static(path.join(__dirname, "dist"));*/
 
-var DIST_DIR = path.join(__dirname, "dist");
+var DIST_DIR = path.join("dist");
 console.log("\n\npath is "+appDir);
 console.log("\n\n Dist path is "+DIST_DIR);
 
