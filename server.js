@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const path = require('path');
-var port=process.env.PORT || 8080;
+var port=process.env.PORT || 8000;
 // Run the app by serving the static files
 // in the dist directory
 /*app.use(express.static(path.join(__dirname, "dist"));*/
