@@ -28,7 +28,7 @@ const appRoutes: Routes = [
     component: ContactComponent,
   },
   { path: '',
-   component: HomeComponent 
+   component: HomeComponent
   },
   { path: '**', component: PagenotfoundComponent }
 ];
@@ -48,7 +48,7 @@ const appRoutes: Routes = [
     NewsletterComponent,
     TestimonialsComponent,
     PagenotfoundComponent,
-    HomeComponent
+    HomeComponent,
   ],
   imports: [
    RouterModule.forRoot(
