@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 import { MDBBootstrapModule } from 'angular-bootstrap-md';
 import { RouterModule, Routes } from '@angular/router';
 import { AppComponent } from './app.component';
+
 import { BooksComponent } from './books/books.component';
 import { SearchComponent } from './search/search.component';
 import { ContactComponent } from './contact/contact.component';
@@ -27,7 +28,7 @@ const appRoutes: Routes = [
     component: ContactComponent,
   },
   { path: '',
-   component: HomeComponent 
+   component: HomeComponent
   },
   { path: '**', component: PagenotfoundComponent }
 ];
@@ -47,7 +48,7 @@ const appRoutes: Routes = [
     NewsletterComponent,
     TestimonialsComponent,
     PagenotfoundComponent,
-    HomeComponent
+    HomeComponent,
   ],
   imports: [
    RouterModule.forRoot(
