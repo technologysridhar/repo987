@@ -4,7 +4,7 @@ import { NgModule } from '@angular/core';
 import { MDBBootstrapModule } from 'angular-bootstrap-md';
 import { RouterModule, Routes } from '@angular/router';
 import { AppComponent } from './app.component';
-// import { MembershipComponent } from './feature/membership/membership.component';
+
 import { BooksComponent } from './books/books.component';
 import { SearchComponent } from './search/search.component';
 import { ContactComponent } from './contact/contact.component';

@@ -17,10 +17,10 @@
     "@angular-devkit/core": "0.0.28",
     "@angular/animations": "^5.0.0",
     "@angular/cli": "1.6.4",
-    "@angular/common": "^5.2.0",
+    "@angular/common": "^5.2.1",
     "@angular/compiler": "^5.1.0",
     "@angular/compiler-cli": "^5.1.0",
-    "@angular/core": "^5.1.0",
+    "@angular/core": "^5.2.1",
     "@angular/forms": "^5.1.0",
     "@angular/http": "^5.1.0",
     "@angular/platform-browser": "^5.1.0",
@@ -37,10 +37,6 @@
     "font-awesome": "^4.7.0"
 
 
-  },
-  "engines": {
-    "node": "6.11.1",
-    "npm": "3.10.9"
   },
   "devDependencies": {
     "@angular/forms": "^5.2.0",
