@@ -28,7 +28,8 @@
     "core-js": "^2.4.1",
     "express": "^4.16.2",
     "rxjs": "^5.5.2",
-    "zone.js": "^0.8.19"
+    "zone.js": "^0.8.19",
+    "typescript": "~2.5.3",
   },
   "devDependencies": {
     "@angular/forms": "^5.2.0",
@@ -52,7 +53,6 @@
     "rxjs": "^5.5.0",
     "ts-node": "~3.2.0",
     "tslint": "~5.9.1",
-    "typescript": "~2.5.3",
     "zone.js": "^0.8.4"
   }
 }
