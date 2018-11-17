@@ -3,7 +3,7 @@
 
 ![](src/assets/logo.png)
 
-> Logos of Heroku, A ngular and Node are Respective Logo owner's property.
+> Logos of Heroku, Angular and Node are Respective Logo owner's property.
 
 <!-- 
 
@@ -12,9 +12,14 @@
 
 **Table of Contents**
 
-[TOCM]
+<!-- [TOCM]
 
-[TOC]
+# Table of Contents
+1. [Example](## A Little Briefing)
+2. [Example2](### Presenting, Angular plus Node setup for Heroku)
+3. [Third Example](#third-example)
+
+[TOC] -->
 
 ## A Little Briefing
 ### Presenting, Angular plus Node setup for Heroku
