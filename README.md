@@ -1,7 +1,10 @@
 # Heroku Setup 101
 ## An Angular plus Node setup for Heroku
 
-![](https://raw.githubusercontent.com/SudhirKaushik/heroku-setup/tree/master/src/assets/logo.png)
+![](src/assets/logo.png)
+
+> Logos of Heroku, A ngular and Node are Respective Logo owner's property.
+
 <!-- 
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
