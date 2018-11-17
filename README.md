@@ -1,7 +1,8 @@
 # Heroku Setup 101
-## An Angular plus NOde setup for Heroku
+## An Angular plus Node setup for Heroku
 
-<!-- ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/SudhirKaushik/heroku-setup/tree/master/src/assets/logo.png)
+<!-- 
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
  -->
@@ -75,5 +76,6 @@ First of all, [Heroku Step-by-Step Documentation for project deployment ](https:
  [Firebase or Heroku?](https://www.stackchief.com/blog/Firebase%20or%20Heroku%3F "Firebase or Heroku?")
  
  [Why Heroku](http://tutorials.jumpstartlab.com/paths/elevate/why_heroku.html "Why Heroku")
-##End
+
+## End
 Feel free to open bugs. Its the only way to seek help from me
