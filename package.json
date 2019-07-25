@@ -3,9 +3,14 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-  "start": "node index.js",
-  "build": "webpack"
-},
+    "start": "node server.js",
+    "ng": "ng",
+    "build": "ng build --aot -prod",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e",
+    "postinstall": "ng build --aot=false -prod"
+  },
   "private": true,
   "dependencies": {
     "@agm/core": "^1.0.0-beta.2",
@@ -52,8 +57,9 @@
     "tslint": "~5.9.1",
     "zone.js": "^0.8.4"
   },
+  
   "engines": {
-  "node": "~10.16.0",
-  "npm": "~6.9.0"
-}
+	  "node": "~10.16.0",
+	  "npm": "~6.9.0"
+	}
 }
